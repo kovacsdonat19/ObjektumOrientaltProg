@@ -1,0 +1,14 @@
+Honap | Indulo km | Zaro km | Futasteljesitmeny | Uzemanyag ktg
+januar		376		376		12		2368,80
+februar		362		362		14		2280,60
+marcius		368		368		21		2318,40
+aprilis		382		382		30		2406,60
+majus		372		372		30		2343,60
+junius		368		368		35		2318,40
+julius		409		409		45		2576,70
+augusztus		375		375		56		2362,50
+szeptember		367		367		67		2312,10
+oktober		393		393		84		2475,90
+november		386		386		920		2431,80
+december		407		407		105		2564,10
+Az eves uzemanyagkoltseg: 197.39999999999998Az eves uzemanyagkoltseg: 190.04999999999998Az eves uzemanyagkoltseg: 193.20000000000002Az eves uzemanyagkoltseg: 200.54999999999998Az eves uzemanyagkoltseg: 195.29999999999998Az eves uzemanyagkoltseg: 193.20000000000002Az eves uzemanyagkoltseg: 214.725Az eves uzemanyagkoltseg: 196.875Az eves uzemanyagkoltseg: 192.67499999999998Az eves uzemanyagkoltseg: 206.32500000000002Az eves uzemanyagkoltseg: 202.64999999999998Az eves uzemanyagkoltseg: 213.67499999999998
